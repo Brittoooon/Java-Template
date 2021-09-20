@@ -48,7 +48,7 @@ public class Robot extends TimedRobot {
   @Override
   public void disabledInit() {}
 
-  print("Hello");
+  // print("Hello");
   @Override
   public void disabledPeriodic() {}
 
